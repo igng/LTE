@@ -1,4 +1,4 @@
-# LTE
+# LTE (Lower The Entropy)
 
 This project was developed during the <b>SpaceApps Challenge 2018 (Rome)</b>, from an idea of Filippo Curti.
 
